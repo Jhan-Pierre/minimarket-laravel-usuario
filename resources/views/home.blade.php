@@ -19,7 +19,7 @@
         </x-slot>
         Contenido de la alerta 
     </x-alert>
-    <h1 class="text-3xl font-bold underline">
+    <h1>
         Hello world!
     </h1>
     <h2>h1</h2>
